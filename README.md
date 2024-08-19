@@ -3,9 +3,9 @@
   <h1 align="center">Hello 👋. Nice to meet you <h1>
 </p>
 
-- 🔭 I’m currently studying Signal Processing and Machine Learning @ Tampere University
+<!-- - 🔭 I’m currently studying Signal Processing and Machine Learning @ Tampere University
 - 🌱 I’m currently learning how to use python for Machine Learning.
-<!-- - 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... -->
 
