@@ -1,6 +1,6 @@
 <!-- -->
 <p align="center">
-  <h1 align="center">Hello 👋. Nice to meet you <h1>
+  <h1 align="center">Hi There! 👋<h1>
 </p>
 
 <!-- - 🔭 I’m currently studying Signal Processing and Machine Learning @ Tampere University
@@ -11,11 +11,11 @@
 
  <!-- <div align="center" width="50">
   <img align="center" alt="GIF" src="./mygif.gif" />
-</div> -->
+</div> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
  <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;"
@@ -23,13 +23,17 @@ alt="Typing SVG" /></a>
    <!-- I'm+a+Full-Stack+Web+Developer -->
 </p>
 
-##  Languages and Tools
+##  Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,javascript,react,typescript,html,css,java,cpp](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=python,javascript,react,typescript,html,css,java,cpp)](https://skillicons.dev)
 <!-- redux,ruby,rails,postgres,git,github,jest,bootstrap,tailwind,webpack,vscode,idea) -->
 
+## Tools
+
+[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,git,github)](https://skillicons.dev)
+
 ### Connect with me     
-[![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/) 
+[![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin,dicord)](https://www.linkedin.com/in/amanuel-galema/) 
 
 <!-- ![Azarias' GitHub stats](https://github-readme-stats.vercel.app/api?username=azariasabera&show_icons=true&bg_color=00000000) -->
 
