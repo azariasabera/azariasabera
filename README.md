@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Connect with me     
 [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/) 
 
-<!-- ![Amanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=amexabee&show_icons=true&bg_color=00000000) -->
+<!-- ![Azarias' GitHub stats](https://github-readme-stats.vercel.app/api?username=azariasabera&show_icons=true&bg_color=00000000) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=amexabee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
