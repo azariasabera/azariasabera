@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <h6>
-    I'm Azarias - Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learning. Interested in trying new stuff, and consistently updating my knowledge.
-  </h6>
+  <small>
+    I'm <span style="font-weight: normal">Azarias</span>. Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learning. Interested in trying new stuff, and consistently updating my knowledge.
+  </small>
 </p>
 
 ## Languages
