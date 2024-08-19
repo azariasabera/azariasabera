@@ -24,16 +24,18 @@ alt="Typing SVG" /></a>
 </p>
 
 
-### I'm Azarias - Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learing. Interested in trying new stuff, and consistently updating my knowledge.
+I'm Azarias - Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learing. Interested in trying new stuff, and consistently updating my knowledge.  
+
+<br> <br>
 
 ##  Languages
 
-[![Languages and Tools](https://skillicons.dev/icons?i=python,javascript,react,typescript,html,css,java,cpp)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=python,javascript,react,typescript,html,css,java,cpp,nodejs)](https://skillicons.dev)
 <!-- redux,ruby,rails,postgres,git,github,jest,bootstrap,tailwind,webpack,vscode,idea) -->
 
 ## Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,nodejs,github)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,github)](https://skillicons.dev)
 
 <!--### Connect with me     
 [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin,discord)](https://www.linkedin.com/in/amanuel-galema/)--> 
