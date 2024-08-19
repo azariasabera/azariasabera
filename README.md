@@ -33,7 +33,7 @@ alt="Typing SVG" /></a>
 
 ## Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,git,github)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,nodejs,github)](https://skillicons.dev)
 
 <!--### Connect with me     
 [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin,discord)](https://www.linkedin.com/in/amanuel-galema/)--> 
