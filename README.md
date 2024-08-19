@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <small>
     I'm <span style="font-weight: normal">Azarias</span>. Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learning. Interested in trying new stuff, and consistently updating my knowledge.
   </small>
