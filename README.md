@@ -20,9 +20,9 @@
 
 ## Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,github)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,github,pug)](https://skillicons.dev)
 
-⚡ My Stats
+<h2>⚡ My Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=azariasabera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
