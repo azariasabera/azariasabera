@@ -18,13 +18,15 @@
 </div>
 
  <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;"
+alt="Typing SVG" /></a>
+   <!-- I'm+a+Full-Stack+Web+Developer -->
 </p>
 
 ##  Languages and Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=javascript,react,redux,html,css,ruby,rails,postgres,java,cpp,git,github,jest,bootstrap,tailwind,webpack,vscode,idea)](https://skillicons.dev)
-
+[![Languages](https://skillicons.dev/icons?i=python,javascript,react,typescript,html,css,java,cpp](https://skillicons.dev)
+<!-- redux,ruby,rails,postgres,git,github,jest,bootstrap,tailwind,webpack,vscode,idea) -->
 
 ### Connect with me     
 [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amanuel-galema/) 
