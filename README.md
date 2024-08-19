@@ -18,13 +18,13 @@
 </div> -->
 
  <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;"
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=green&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;"
 alt="Typing SVG" /></a>
    <!-- I'm+a+Full-Stack+Web+Developer -->
 </p>
 
 
-I'm Azarias - Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learing. Interested in trying new stuff, and consistently updating my knowledge.
+### I'm Azarias - Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learing. Interested in trying new stuff, and consistently updating my knowledge.
 
 ##  Languages
 
