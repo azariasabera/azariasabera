@@ -1,24 +1,22 @@
 <!-- -->
-**azariasabera/azariasabera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <p align="center">
-  <h1 align="center">Hello there 👋 Nice to meet you <h1>
+  <h1 align="center">Hello 👋. Nice to meet you <h1>
 </p>
 
- <div align="center" width="50">
+- 🔭 I’m currently studying Signal Processing and Machine Learning @ Tampere University
+- 🌱 I’m currently learning how to use python for Machine Learning.
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- ⚡ Fun fact: ... -->
+
+ <!-- <div align="center" width="50">
   <img align="center" alt="GIF" src="./mygif.gif" />
+</div> -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
  <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=6622cc&size=40&width=800&height=100&lines=Welcome+to+My+Workspace;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
