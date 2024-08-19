@@ -25,7 +25,7 @@ alt="Typing SVG" /></a>
 
 <br>
 
-<span style="font-size: 12px; font-weight: normal;">
+<span style="font-size: 6px; font-weight: normal;">
 I'm Azarias - Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learing. Interested in trying new stuff, and consistently updating my knowledge.  
 </span>
 
