@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 <!-- ![Azarias' GitHub stats](https://github-readme-stats.vercel.app/api?username=azariasabera&show_icons=true&bg_color=00000000) -->
 
-![](https://github-readme-stats.vercel.app/api?username=amexabee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=azariasabera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amexabee&theme=dark&border_radius=9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azariasabera&theme=dark&border_radius=9)](https://git.io/streak-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amexabee&theme=dark&layout=compact)](https://github.com/amexabee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azariasabera&theme=dark&layout=compact)](https://github.com/azariasabera/github-readme-stats)
