@@ -26,7 +26,7 @@ Full-stack web developer, undergraduate student @ Tampere University studying Si
 
 ![](https://github-readme-stats.vercel.app/api?username=azariasabera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azariasabera&theme=dark&border_radius=9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azariasabera&theme=dark&border_radius=9&ring=124fc2&fire=124fc2)](https://git.io/streak-stats)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azariasabera&theme=dark&layout=compact)](https://github.com/azariasabera/github-readme-stats)
 
