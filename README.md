@@ -24,11 +24,11 @@ Full-stack web developer, undergraduate student @ Tampere University studying Si
 
 <h2>⚡ My Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azariasabera&hide_border=false&include_all_commits=true&count_private=true&title_color=124fc2&icon_color=124fc2&text_color=ffffff&bg_color=0d1117)
+![](https://github-readme-stats.vercel.app/api?username=azariasabera&theme=dark&hide_border=false&include_all_commits=true&count_private=true&icon_color=1762ee)<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azariasabera&border_radius=9&ring=124fc2&fire=124fc2&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azariasabera&theme=dark&border_radius=9)](https://git.io/streak-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azariasabera&layout=compact&title_color=124fc2&icon_color=124fc2&text_color=ffffff&bg_color=0d1117)](https://github.com/azariasabera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azariasabera&theme=dark&layout=compact&ring=1762ee)](https://github.com/azariasabera/github-readme-stats)
 
 <!-- - 🔭 I’m currently studying Signal Processing and Machine Learning @ Tampere University
 - 🌱 I’m currently learning how to use python for Machine Learning.
