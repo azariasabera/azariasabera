@@ -20,7 +20,7 @@ Full-stack web developer, undergraduate student @ Tampere University studying Si
 
 ## Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,github,pug)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=vscode,matlab,mongodb,github,docker,pug)](https://skillicons.dev)
 
 <h2>⚡ My Stats</h2>
 
