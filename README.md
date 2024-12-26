@@ -10,7 +10,7 @@
 
 <p>
   <small>
-Full-stack web developer, undergraduate student @ Tampere University studying Signal Processing & Machine Learning. Interested in trying new stuff, and consistently updating my knowledge.
+Undergraduate student @ Tampere University studying Signal Processing & Machine Learning. Interested in trying new stuff, and consistently updating my knowledge.
   </small>
 </p>
 
