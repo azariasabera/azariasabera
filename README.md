@@ -16,11 +16,11 @@ Undergraduate student @ Tampere University studying Signal Processing & Machine 
 
 ## Languages
 
-[![Languages and Tools](https://skillicons.dev/icons?i=python, c++, java, javascript,react,typescript,html,css,nodejs)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=python,c++,java,javascript,react,typescript,html,css,nodejs)](https://skillicons.dev)
 
 ## Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=matlab, qt, mongodb,github,docker,pug)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=matlab,qt,mongodb,github,docker,pug)](https://skillicons.dev)
 
 <h2>⚡ My Stats</h2>
 
