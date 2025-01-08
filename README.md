@@ -16,7 +16,7 @@ Undergraduate student @ Tampere University studying Signal Processing & Machine 
 
 ## Languages
 
-[![Languages and Tools](https://skillicons.dev/icons?i=python,c++,java,javascript,react,typescript,html,css,nodejs)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=python,cpp,java,sql,scala,javascript,react,typescript,nodejs)](https://skillicons.dev)
 
 ## Tools
 
