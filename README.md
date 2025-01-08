@@ -10,7 +10,7 @@
 
 <p>
   <small>
-Undergraduate student @ Tampere University studying Signal Processing & Machine Learning. Interested in trying new stuff, and consistently updating my knowledge.
+Undergraduate student @ Tampere University studying Signal Processing & Machine Learning and Information Technology. Interested in trying new stuff, and consistently updating my knowledge.
   </small>
 </p>
 
