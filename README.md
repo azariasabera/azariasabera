@@ -20,7 +20,7 @@ Undergraduate student @ Tampere University studying Signal Processing, Machine L
 
 ## Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=matlab,qt,sqlite,mongodb,github,docker,pug)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=matlab,qt,sqlite,mongodb)](https://skillicons.dev) <!-- ,github,docker,pug -->
 
 <!-- <h2>⚡ My Stats</h2>
 
