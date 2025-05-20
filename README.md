@@ -14,7 +14,7 @@ Undergraduate student @ Tampere University studying Signal Processing, Machine L
   </small>
 </p>
 
-## Languages
+<!--## Languages
 
 [![Languages and Tools](https://skillicons.dev/icons?i=python,cpp,java,scala,javascript,react,typescript,nodejs)](https://skillicons.dev)
 
@@ -22,7 +22,7 @@ Undergraduate student @ Tampere University studying Signal Processing, Machine L
 
 [![Languages and Tools](https://skillicons.dev/icons?i=matlab,qt,sqlite,mongodb)](https://skillicons.dev) <!-- ,github,docker,pug -->
 
-<!-- <h2>⚡ My Stats</h2>
+ <h2>⚡ My Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=azariasabera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
