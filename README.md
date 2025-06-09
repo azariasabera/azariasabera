@@ -14,7 +14,7 @@ Undergraduate student @ Tampere University studying Signal Processing, Machine L
   </small>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azariasabera&theme=dark&layout=compact)](https://github.com/azariasabera/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azariasabera&layout=compact)
 
 <!--## Languages
 
