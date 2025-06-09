@@ -49,4 +49,4 @@ Undergraduate student @ Tampere University studying Signal Processing, Machine L
 [![Languages and Frameworks](https://skillicons.dev/icons?i=linkedin,discord)](https://www.linkedin.com/in/amanuel-galema/)--> 
 
 <!-- ![Azarias' GitHub stats](https://github-readme-stats.vercel.app/api?username=azariasabera&show_icons=true&bg_color=00000000) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azariasabera&theme=dark&layout=compact)](https://github.com/azariasabera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azariasabera&theme=dark)](https://github.com/azariasabera/github-readme-stats)
