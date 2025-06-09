@@ -14,6 +14,8 @@ Undergraduate student @ Tampere University studying Signal Processing, Machine L
   </small>
 </p>
 
+![Azarias' GitHub stats](https://github-readme-stats.vercel.app/api?username=azariasabera&show_icons=true&bg_color=00000000) 
+
 <!--## Languages
 
 [![Languages and Tools](https://skillicons.dev/icons?i=python,cpp,java,scala,javascript,react,typescript,nodejs)](https://skillicons.dev)
