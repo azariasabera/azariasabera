@@ -10,7 +10,7 @@
 
 <p>
   <small>
-Undergraduate student @ Tampere University studying Signal Processing, Machine Learning, and Information Technology. Interested in trying new stuff, and consistently updating my knowledge.
+MSc student @ Tampere University studying Signal Processing, Machine Learning. My focus area is audio, speech and language technologies. Interested in trying new stuff, and consistently updating my knowledge.
   </small>
 </p>
 
